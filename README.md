@@ -2,7 +2,7 @@
 Host a Test Application on Kubernetes
 
 Suppose I have just joined a startup Ventura Software as a Devops Lead Engineer. The company relies on a Monolithic Architecture for its product. Recently, the senior management was hired. The new CTO insists on having a Microservice Architecture. The Development Team, is 
-working on breaking the Monolith. Meanwhile, I have been asked to host a Test Application on Kubernetes, to understand how it works.
+working on breaking the Monolith. Meanwhile, I have been asked to host a Test Application on Kubernetes, to understand how it works..
  
 Following things have to be implemented:
  
